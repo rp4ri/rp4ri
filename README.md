@@ -6,8 +6,6 @@ I'm a data scientist and mathematician based in Santa Cruz de la Sierra, Bolivia
 
 In this GitHub account I upload small projects and prototypes that I make while learning new technologies. 🔭 I'm also trying to upload content from my current work to my GitHub Pages blog [rp4ri.github.io](rp4ri.github.io)
 
-I'm trying to upload content of what I'm currently doing to my github pages blog rp4ri.github.io
-
 In my free time, I like to read 📚 Latin American literature, 🎨 draw and paint, and try to combine my hobbies with my work. 🎨 I'm always looking for new ways to combine my passions with my work.
 
 I'm always looking for new challenges and opportunities to learn and grow. 🌎
