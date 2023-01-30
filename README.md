@@ -10,6 +10,8 @@ In my free time, I like to read 📚 Latin American literature, 🎨 draw and pa
 
 I'm always looking for new challenges and opportunities to learn and grow. 🌎
 
+You can see my gists [here.](https://gist.github.com/rp4ri)
+
 ## About me
 
 - 🧉 I like to drink tereré while coding 🧉
