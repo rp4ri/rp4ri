@@ -2,7 +2,7 @@
 
 ## Hi there 👋, my name is Rodrigo Pari
 
-I'm a data scientist and mathematician based in Santa Cruz de la Sierra, Bolivia. I'm usually travelling around the country. I love math and I'm always trying to learn something new.
+I'm a ML engineer and mathematician based in Santa Cruz de la Sierra, Bolivia. I'm usually travelling around the country. I love math and I'm always trying to learn something new.
 
 In this GitHub account I upload small projects and prototypes that I make while learning new technologies. 🔭 I'm also trying to upload content from my current work to my GitHub Pages blog [rp4ri.github.io](https://rp4ri.github.io/)
 
