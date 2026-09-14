@@ -2,11 +2,11 @@
 
 ## Hi there 👋, my name is Rodrigo Pari
 
-I'm a ML engineer and mathematician based in Santa Cruz de la Sierra, Bolivia. I'm usually travelling around the country. I love math and I'm always trying to learn something new.
+I'm a mathematician based in Santa Cruz de la Sierra, Bolivia. I study how agents interact and self-organize, and I'm building the infrastructure to orchestrate them at [Cyborg](https://cyborg7.com).
 
-In this GitHub account I upload small projects and prototypes that I make while learning new technologies. 🔭 I'm also trying to upload content from my current work to my GitHub Pages blog [rp4ri.github.io](https://rp4ri.github.io/)
+In this GitHub account I upload small projects and prototypes that I make while learning new technologies. 🔭 I'm also trying to upload content from my current work to my blog [tajibo.lat](https://tajibo.lat)
 
-In my free time, I like to read 📚 Latin American literature, 🎨 draw and paint, and try to combine my hobbies with my work.
+I care about dynamical systems, category theory, game theory, and multi-agent systems. In my free time, I like to read 📚 Latin American literature, 🎨 draw and paint, and try to combine my hobbies with my work.
 
 I'm always looking for new challenges and opportunities to learn and grow. 🌎
 
@@ -16,8 +16,8 @@ You can see my gists [here.](https://gist.github.com/rp4ri)
 
 - 🧉 I like to drink tereré while coding 🧉
 - 📚 I'm trying to read Borges but I'm having trouble understanding all the references he makes 🤔
-- 🤝 I'm involved in a volunteer project that uses technology to make useful applications for our society [labtecnosocial.org](https://labtecnosocial.org/) 🤝
-- 🖥️ I'm fascinated by Artificial Intelligence because my computer can do seemingly human things like talk to me about literature or draw 🖥️
+- 🤝 I spent two years at [labtecnosocial.org](https://labtecnosocial.org/), using technology for social research in Bolivia 🤝
+- 🖥️ I got into Artificial Intelligence because my computer could suddenly do human things — talk to me about literature, or draw 🖥️
 
 
 <!--
