@@ -6,19 +6,25 @@ I'm a mathematician based in Santa Cruz de la Sierra, Bolivia. I study how agent
 
 In this GitHub account I upload small projects and prototypes that I make while learning new technologies. 🔭 I'm also trying to upload content from my current work to my blog [tajibo.lat](https://tajibo.lat)
 
-I care about dynamical systems, category theory, game theory, and multi-agent systems. In my free time, I like to read 📚 Latin American literature, 🎨 draw and paint, and try to combine my hobbies with my work.
-
 I'm always looking for new challenges and opportunities to learn and grow. 🌎
 
 You can see my gists [here.](https://gist.github.com/rp4ri)
 
+## Interests
+
+- Category theory — polynomial functors, coalgebra, Markov categories
+- Information theory
+- Dynamical systems
+- Multi-agent organization — roles, norms, and the structures agents form
+
 ## About me
 
-- 🧉 I like to drink tereré while coding 🧉
-- 📚 I'm trying to read Borges but I'm having trouble understanding all the references he makes 🤔
-- 🤝 I spent two years at [labtecnosocial.org](https://labtecnosocial.org/), using technology for social research in Bolivia 🤝
-- 🖥️ I got into Artificial Intelligence because my computer could suddenly do human things — talk to me about literature, or draw 🖥️
-
+- 🧉 I drink tereré while I vibe code 🧉
+- 📚 I read Borges. The Aleph is my favourite 📚
+- 🤖 I like agent orchestration. Right now I'm trying to get agents to run my social media and automate my house 🤖
+- 🔬 I like simulations, mathematics and open source 🔬
+- 🧡 I use Svelte for everything. If I see something in React I'll probably port it to Svelte with Claude Code 🧡
+- 🐛 I post my bugs on X — [@rp4ri](https://x.com/rp4ri) 🐛
 
 <!--
 **rp4ri/rp4ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
