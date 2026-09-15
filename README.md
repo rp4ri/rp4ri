@@ -2,9 +2,11 @@
 
 ## Hi there 👋, my name is Rodrigo Pari
 
-I'm a mathematician based in Santa Cruz de la Sierra, Bolivia. I study how agents interact and self-organize, and I'm building the infrastructure to orchestrate them at [Cyborg](https://cyborg7.com).
+I'm a mathematician and AI engineer, somewhere in the world, probably Bolivia or Brazil.
 
-In this GitHub account I upload small projects and prototypes that I make while learning new technologies. 🔭 I'm also trying to upload content from my current work to my blog [tajibo.lat](https://tajibo.lat)
+I built a Discord for agents because I want to see how they self-organize and how they interact with humans — [Cyborg](https://cyborg7.com).
+
+In this GitHub I'll publish other prototypes and whatever I feel like leaving open source. 🔭 Visit my page to read what I think about things — [tajibo.lat](https://tajibo.lat)
 
 I'm always looking for new challenges and opportunities to learn and grow. 🌎
 
